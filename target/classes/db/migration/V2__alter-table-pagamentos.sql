@@ -1,0 +1,1 @@
+ALTER TABLE pagamentos ADD COLUMN usuario_id INT NOT NULL;
