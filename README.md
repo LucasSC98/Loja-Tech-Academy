@@ -8,6 +8,7 @@ Este é um projeto de uma loja online desenvolvido como parte de um trabalho de 
 ## Tecnologias Utilizadas
 
 - Java
+- Javascript
 - Spring Boot
 - Maven
 - SQL
