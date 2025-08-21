@@ -55,7 +55,7 @@ O projeto utiliza um banco de dados SQL. As tabelas são criadas e gerenciadas p
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/usuario/megalojao.git
+    git clone https://github.com/LucasSC98/Loja-Tech-Academy.git
     ```
 2. Navegue até o diretório do projeto:
     ```sh
